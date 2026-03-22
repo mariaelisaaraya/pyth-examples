@@ -41,8 +41,9 @@ validator rwa_threshold {
 
       // Risky action — only if collateral price is high enough
       MintOrBorrow -> {
-        // Read all verified Pyth price updates from the transaction
+        // Verify and extract price data from the Pyth withdrawal redeemer
         let updates = pyth.get_updates(config.pyth_id, self)
+        // Expect exactly one signed update in this transaction
         expect [update] = updates
 
         // Find our feed in the update
