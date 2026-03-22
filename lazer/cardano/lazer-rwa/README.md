@@ -148,10 +148,11 @@ ACCESS_TOKEN=<your-token> CARDANO_MNEMONIC="<your 24 words>" FEED=XAU/USD MIN_PR
 
 | Type | Feed | Tx Hash |
 |------|------|---------|
-| Price verification | XAU/USD | [caaf9db7...](https://preprod.cardanoscan.io/transaction/caaf9db719e015031bf4b6164184b95226b433d4eb29c80a8a4960f02c309be0) |
-| Price verification | XAU/USD | [8fca5fdd...](https://preprod.cardanoscan.io/transaction/8fca5fdd8e831c5e1ee0d8417cfedae480b6d2a7374647ded100b440fca49e43) |
-| Price verification | XAUT/USD | [2d646b1f...](https://preprod.cardanoscan.io/transaction/2d646b1fdd24e864b2c70d0c6428a87931e51ef3029f5b70f5710e787ac14a10) |
-| **Token mint** | XAUT/USD | [ae0a7393...](https://preprod.cardanoscan.io/transaction/ae0a7393616fddc31b27108213b177e33a211053ea4b423fd1a1bc27b66f23d9) |
+| Price verification | XAU/USD | [`caaf9db719e015031bf4b6164184b95226b433d4eb29c80a8a4960f02c309be0`](https://preprod.cardanoscan.io/transaction/caaf9db719e015031bf4b6164184b95226b433d4eb29c80a8a4960f02c309be0) |
+| Price verification | XAU/USD | [`8fca5fdd8e831c5e1ee0d8417cfedae480b6d2a7374647ded100b440fca49e43`](https://preprod.cardanoscan.io/transaction/8fca5fdd8e831c5e1ee0d8417cfedae480b6d2a7374647ded100b440fca49e43) |
+| Price verification | XAUT/USD | [`2d646b1fdd24e864b2c70d0c6428a87931e51ef3029f5b70f5710e787ac14a10`](https://preprod.cardanoscan.io/transaction/2d646b1fdd24e864b2c70d0c6428a87931e51ef3029f5b70f5710e787ac14a10) |
+| **Token mint** | XAUT/USD | [`ae0a7393616fddc31b27108213b177e33a211053ea4b423fd1a1bc27b66f23d9`](https://preprod.cardanoscan.io/transaction/ae0a7393616fddc31b27108213b177e33a211053ea4b423fd1a1bc27b66f23d9) |
+| **Token mint** | XAUT/USD | [`44f5c4378067e94796cd45a00925dffaf50caf2361f4a368a4cb1e44739e06a3`](https://preprod.cardanoscan.io/transaction/44f5c4378067e94796cd45a00925dffaf50caf2361f4a368a4cb1e44739e06a3) |
 
 ## Project structure
 
